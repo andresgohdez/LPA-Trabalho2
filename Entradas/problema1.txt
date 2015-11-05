@@ -1,9 +1,0 @@
-
-1 
-4
-75
-19
-77
-14
-
-O primeiro número de entrada é para selecionar o menu, nesse caso (1).
