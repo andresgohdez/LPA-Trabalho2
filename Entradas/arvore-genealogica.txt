@@ -1,0 +1,5 @@
+
+3
+filho1 pai1 mae1
+pai1 avô1 avó1
+mae1 avô2 avo2

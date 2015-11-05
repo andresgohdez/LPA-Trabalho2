@@ -1,4 +1,4 @@
-
+﻿
 # LPA-trabalho2
 Aplicações de Algoritmos de Árvores
 Nomes:  Marcos Hideki Kawano, GitHub username: marcoshideki, Nº USP:9312602
@@ -30,5 +30,7 @@ utilizou-se a aplicação de algoritmos de arvores na linguagem de programação
 	Impressão da árvore em: Pré Ordem, Pós Ordem, e Em Ordem.
 
 	Impressão da árvore em “labelled bracketing”: A notação labelled bracketing é um modo alternativo para representar 	árvores usando colchetes. Cada nó é representado usando pares de colchetes. A primeira string dentro de um par de 		colchetes define o rótulo de um nó e os elementos consecutivos os nós filhos.
+
+	No segundo algoritmo, será criada uma arvore genealógica e no terceiro algoritmo, será feito um conversor de 	equação em notação polones
 
 
